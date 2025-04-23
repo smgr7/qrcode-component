@@ -47,3 +47,8 @@ p {
     font-size: 15px;
     color: hsl(216, 15%, 48%);
 }
+
+div.text {
+    max-width: 288px;
+    padding: 0 16px;
+}
