@@ -20,7 +20,7 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### Links
 
-- Solution URL: [https://www.frontendmentor.io/solutions/qr-code-component-using-flexbox-qqaPRdH3fr]
+- Solution URL: [https://github.com/smgr7/qrcode-component]
 - Live Site URL: [https://smgr7.github.io/qrcode-component/]
 
 ## My process
